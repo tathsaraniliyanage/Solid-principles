@@ -1,5 +1,6 @@
 # SOLID Principles
 
+
 ## Introduction
 
 SOLID principles are five design principles that help developers create flexible and maintainable object-oriented
